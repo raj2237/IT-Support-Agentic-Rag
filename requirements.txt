@@ -8,6 +8,7 @@ langgraph==1.1.10
 langchain-core==1.6.1
 langchain-community==0.4.2
 langchain-groq
+langchain-huggingface
 langchain-openai==1.6.0
 langchain-tavily==0.2.18
 langchain-pinecone==0.2.13
